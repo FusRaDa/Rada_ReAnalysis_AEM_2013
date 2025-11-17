@@ -1,10 +1,7 @@
-Download the [latest release](https://github.com/SchlossLab/new_project/releases/latest) to the directory and decompress
-
-
 ## TITLE OF YOUR PAPER GOES HERE
 
 YOUR PAPER'S ABSTRACT GOES HERE
-
+Christopher M. Rada's attempt for the Riffomonas tutorial by the Schloss lab: https://riffomonas.org/reproducible_research/organization/#p17
 
 
 
