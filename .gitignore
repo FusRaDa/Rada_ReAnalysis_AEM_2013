@@ -12,3 +12,6 @@ data/*/*
 mothur*logfile
 *temp*
 *.docx
+
+/work
+.nextflow*
