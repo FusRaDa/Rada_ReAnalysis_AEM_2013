@@ -1,7 +1,12 @@
-## TITLE OF YOUR PAPER GOES HERE
-
+## RadaReAnalysis_AEM_2013 
 RadaReAnalysis_AEM_2013 - November 17, 2025
 Christopher M. Rada's attempt for the Riffomonas tutorial by the Schloss lab: https://riffomonas.org/reproducible_research/organization/#p17
+
+
+## Tech
+- Nextflow
+- Docker (ensure cpu and memory allocation may need to be increase to avoid "unexpected EOF error")
+	- Image/container: community.wave.seqera.io/library/mothur:1.48.3--8c30967de5ffe410
 
 
 ## Re-analysis of Kozich dataset
