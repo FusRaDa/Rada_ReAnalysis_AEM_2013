@@ -24,3 +24,9 @@ rm trainset14_032015.pds.tgz
 # # Generate a customized version of the SILVA reference database that targets the V4 region
 # code/mothur/mothur "#pcr.seqs(fasta=data/references/silva.seed.align, start=11894, end=25319, keepdots=F, processors=8)"
 # mv data/references/silva.seed.pcr.align data/references/silva.v4.align
+
+
+# Run all executions in order
+nextflow run code/nextflow/refs.nf
+nextflow run code/nextflow/seqs.nf
+nextflow run code/nextflow/error.nf

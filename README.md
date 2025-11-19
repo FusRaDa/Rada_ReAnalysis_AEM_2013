@@ -5,8 +5,7 @@ Christopher M. Rada's attempt for the Riffomonas tutorial by the Schloss lab: ht
 
 ## Tech
 - Nextflow
-- Docker (ensure cpu and memory allocation may need to be increase to avoid "unexpected EOF error")
-	- Image/container: community.wave.seqera.io/library/mothur:1.48.3--8c30967de5ffe410
+- Mothur version=1.48.4
 
 
 ## Re-analysis of Kozich dataset
